@@ -101,4 +101,4 @@ GitHub: [tanmayeesonawane026](https://github.com/tanmayeesonawane026)
 
 ### Dashboard Overview
 
-![Business Analytics Studio Dashboard](Screenshot 2026-10-11 234754.png)
+![Business Analytics Studio Dashboard](screenshots/Screenshot%202026-10-11%20234754.png)
