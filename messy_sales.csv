@@ -1,0 +1,7 @@
+order_id,order_date,customer,product,quantity,price
+101,2026-01-05,Aarav,Laptop,1,55000
+102,2026-01-06,Meera,Mouse,2,500
+102,2026-01-06,Meera,Mouse,2,500
+103,,Rohan,Keyboard,1,1200
+104,2026-01-08,,Monitor,1,8500
+105,2026-01-09,Aarav,Mouse,,500
