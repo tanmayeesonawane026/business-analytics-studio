@@ -97,8 +97,4 @@ GitHub: [tanmayeesonawane026](https://github.com/tanmayeesonawane026)
 
 *Built as a portfolio project to explore practical business analytics and data quality workflows.*
 
-## Screenshots
 
-### Dashboard Overview
-
-![Business Analytics Studio Dashboard](screenshots/Screenshot%202026-10-11%20234754.png)
